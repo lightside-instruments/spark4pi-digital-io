@@ -1,3 +1,12 @@
+spark-relay-actuator-pi (2-3) jammy; urgency=medium
+
+  * Updated box design. Added layers. Reduced ventilation holes.
+  * Added Pi Zero mounting holes. Added Pi outline and imported drill file with edges as layer.
+  * Reduced height of front panel opening for Pi and centered it.
+  * Moved 0.5 mm the relay-actuator extension board closer to the Pi so that it is correctly centered. Now it is 3.5 mm space between the boards.
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Tue, 28 Nov 2023 13:56:01 +0100
+
 spark-relay-actuator-pi (2-2) buster; urgency=medium
 
   * Box: Corrected height of banana jack holes, Raspberry Pi front panel and SD card
