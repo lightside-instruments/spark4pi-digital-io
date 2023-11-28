@@ -1,3 +1,9 @@
+spark-relay-actuator-pi (3.0) jammy; urgency=medium
+
+  * Upgraded to KiCAD 6. Changed from revision to semver release notation.
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Tue, 28 Nov 2023 14:27:00 +0100
+
 spark-relay-actuator-pi (2-3) jammy; urgency=medium
 
   * Updated box design. Added layers. Reduced ventilation holes.
