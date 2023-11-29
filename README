@@ -1,7 +1,13 @@
-spark-relay-actuator-pi is a hardware platform for managed power
-distribution based on the Spark hardware platform
-for networking. Both are developed by
-Lightside Instruments AS.
+spark-relay-actuator-pi is a hardware platform for managed
+relay actuator implementation controlled over Raspberry Pi
+compatible 40 pin interface. The design is inspired by 
+the Spark hardware platform for networking as form factor
+but with a Raspberry Pi 40 pin connector as management
+interface instead of 96boards.
+
+The functionality is similar to the two-position relay
+actuators of the classical HP 59306A. The device falls
+into the IVI Switch instrument class abstraction model.
 
 The project includes schematic and PCB
 design files for KiCAD and technical documentation for

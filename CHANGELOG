@@ -1,3 +1,9 @@
+spark-relay-actuator-pi (3.2) jammy; urgency=medium
+
+  * Enclosure modification only. Added the two middle mounting holes to the enclosure
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Wed, 29 Nov 2023 10:53:57 +0100
+
 spark-relay-actuator-pi (3.1) jammy; urgency=medium
 
   * Enclosure modification only. Moved the Raspberry Pi mounting holes 2 mm closer to 2 mm offset from the base-board.

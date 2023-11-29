@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "spark-relay-actuator-pi-3.1")
+    (title "spark-relay-actuator-pi-3.2")
     (company "Lightside Instruments AS")
   )
 
@@ -2379,7 +2379,7 @@
   (gr_text "2" (at 134.5 120.5) (layer "F.SilkS") (tstamp 162e5bdd-61a8-46a3-8485-826b5d58e1a1)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "SPARK-RELAY-ACTUATOR-PI-3.0" (at 27.75 96.5) (layer "F.SilkS") (tstamp 241e0c85-4796-48eb-a5a0-1c0f2d6e5910)
+  (gr_text "SPARK-RELAY-ACTUATOR-PI-3.2" (at 27.75 96.5) (layer "F.SilkS") (tstamp 241e0c85-4796-48eb-a5a0-1c0f2d6e5910)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
   (gr_text "A" (at 130 120.5) (layer "F.SilkS") (tstamp 319c683d-aed6-4e7d-aee2-ff9871746d52)
