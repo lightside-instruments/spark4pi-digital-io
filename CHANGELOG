@@ -1,3 +1,9 @@
+spark-relay-actuator-pi (3.3) jammy; urgency=medium
+
+  * Enclosure modification only. Added opening for 40 pin socket connectors on the underside of hats used as a base-board with a Pi Zero on top.
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Tue, 05 Dec 2023 02:49:44 +0100
+
 spark-relay-actuator-pi (3.2) jammy; urgency=medium
 
   * Enclosure modification only. Added the two middle mounting holes to the enclosure
