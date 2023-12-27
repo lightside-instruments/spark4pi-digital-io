@@ -1,3 +1,9 @@
+spark-relay-actuator-pi (3.4) jammy; urgency=medium
+
+  * Enclosure - centered power adapter connector opening, moved and modified optional RF antenna opening, updated BOM 
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Wed, 27 Dec 2023 15:22:39 +0100
+
 spark-relay-actuator-pi (3.3) jammy; urgency=medium
 
   * Enclosure modification only. Added opening for 40 pin socket connectors on the underside of hats used as a base-board with a Pi Zero on top.
