@@ -1,17 +1,23 @@
-spark-relay-actuator-pi is a hardware platform for managed
-relay actuator implementation controlled over Raspberry Pi
+spark4pi-* is a modular hardware platform for managed
+instrument implementations controlled over Raspberry Pi
 compatible 40 pin interface. The design is inspired by 
 the Spark hardware platform for networking as form factor
 but with a Raspberry Pi 40 pin connector as management
 interface instead of 96boards.
 
-The functionality is similar to the two-position relay
-actuators of the classical HP 59306A. The device falls
-into the IVI Switch instrument class abstraction model.
+The functionality of spark4pi-relay-actuator
+is similar to the two-position relay
+actuators of the classical HP 59306A but with 3 relays
+instead of 6. The device falls into the IVI Switch instrument
+class abstraction model.
 
 The project includes schematic and PCB
 design files for KiCAD and technical documentation for
 production of a 19 inch rack mountable ESD Acrylic box.
+It also includes pi-bridge board design file that
+connects together a Pi compatible board with the instrument
+extension base board mounted to the left of the
+Pi compatible control board.
 
 The project is published by Lightside Instruments AS
 under TAPR Open Hardware License. Read the LICENSE file
