@@ -1,0 +1,9 @@
+pi-bridge-9mm (2.0) bullseye; urgency=medium
+
+  * Initial version as standalone pi-bridge project
+  * Upgraded to KiCAD 6.0
+  * Replaced 2 mm thick signal tracks with reglar 0.4
+  * Renamed project files from legacy ice4pi to pi-bridge
+  * Cleanup of unused legacy footprints and misc files
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Mon, 08 Jan 2024 15:13:44 +0100

@@ -1,0 +1,10 @@
+pi-bridge is an open hardware adapter board for connecting
+Raspberry Pi to base board mounted at the same level
+to the right side of the Pi board.
+
+The initial release pi-bridge includes schematic and PCB
+design files for KiCAD.
+
+The project is published by Lightside Instruments AS
+under TAPR Open Hardware License. Read the LICENSE file
+for details.

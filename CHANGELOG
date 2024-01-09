@@ -1,3 +1,9 @@
+spark4pi-relay-actuator (1.1) jammy; urgency=medium
+
+  * Added the 40 pin connector pi-bridge board as third component of the project in addition to the enclosure and the main base extension board
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Tue, 09 Jan 2024 15:50:55 +0100
+
 spark4pi-relay-actuator (1.0) jammy; urgency=medium
 
   * Initial release
