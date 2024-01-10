@@ -7,17 +7,21 @@ interface instead of 96boards.
 
 The functionality of spark4pi-relay-actuator
 is similar to the two-position relay
-actuators of the classical HP 59306A but with 3 relays
+actuators of the classic HP 59306A but with 3 relays
 instead of 6. The device falls into the IVI Switch instrument
 class abstraction model.
 
-The project includes schematic and PCB
-design files for KiCAD and technical documentation for
-production of a 19 inch rack mountable ESD Acrylic box.
-It also includes pi-bridge board design file that
-connects together a Pi compatible board with the instrument
-extension base board mounted to the left of the
-Pi compatible control board.
+The project includes the following components:
+1. board - schematic and PCB design files for KiCAD
+2. mechanical - technical documentation for production
+ of a 19 inch rack mountable ESD Acrylic box.
+3. board-pi-bridge - design files that for board that
+ connects together a Pi compatible board with the instrument
+ extension base board mounted to the left of the Pi compatible
+ control board.
+4. board-powermod - DC-DC board design used as a module to
+ convert the 12-15V input power to 5V powering the
+ Pi compatible control board.
 
 The project is published by Lightside Instruments AS
 under TAPR Open Hardware License. Read the LICENSE file
