@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name spark)(type Legacy)(uri ${KIPRJMOD}/spark.lib)(options "")(descr ""))
-  (lib (name spark-rescue)(type Legacy)(uri ${KIPRJMOD}/spark-rescue.lib)(options "")(descr ""))
+  (lib (name "spark")(type "KiCad")(uri "${KIPRJMOD}/spark.kicad_sym")(options "")(descr ""))
 )

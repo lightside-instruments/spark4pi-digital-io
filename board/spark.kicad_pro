@@ -410,7 +410,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "spark.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""

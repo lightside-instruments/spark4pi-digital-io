@@ -1,3 +1,10 @@
+spark4pi-relay-actuator (1.3) jammy; urgency=medium
+
+  * Update of all footprints from latest Kicad 6 libraries
+  * Cleanup of unused symbols and footprints from the project libraries
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Thu, 11 Jan 2024 14:19:52 +0100
+
 spark4pi-relay-actuator (1.2) jammy; urgency=medium
 
   * Added powermod DC-DC convertor design files

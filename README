@@ -14,7 +14,7 @@ class abstraction model.
 The project includes the following components:
 1. board - schematic and PCB design files for KiCAD
 2. mechanical - technical documentation for production
- of a 19 inch rack mountable ESD Acrylic box.
+ of a 1U 19 inch rack mountable ESD Acrylic box.
 3. board-pi-bridge - design files that for board that
  connects together a Pi compatible board with the instrument
  extension base board mounted to the left of the Pi compatible
