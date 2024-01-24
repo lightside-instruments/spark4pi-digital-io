@@ -5,7 +5,7 @@
   (paper "A2")
 
   (title_block
-    (title "spark4pi-relay-actuator-1.4")
+    (title "spark4pi-relay-actuator-2.0")
     (company "Lightside Instruments AS")
   )
 

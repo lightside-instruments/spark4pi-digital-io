@@ -1,3 +1,11 @@
+spark4pi-relay-actuator (2.0) jammy; urgency=medium
+
+  * Corrected mounting holes on board so that they are equal distance from interfaces
+  * Added fiducials and extra mounting holes for improved production process
+  * Enclousure modifications. Moved mounting holes for the long screws to be symmetric
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Wed, 24 Jan 2024 11:53:27 +0100
+
 spark4pi-relay-actuator (1.4) jammy; urgency=medium
 
   * Corrected bannana jacks and button 3D model vertical offset
