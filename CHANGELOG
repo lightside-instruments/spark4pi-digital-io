@@ -1,3 +1,12 @@
+spark4pi-relay-actuator (2.1) jammy; urgency=medium
+
+  * Restored grid origin to the top left corner of the board
+  * Removed silk screen lego grid circles placed at 1/2 lego raw off
+  * Enclosure: Fixed 0.5 mm offset of the reset button hole
+  * Enclosure: Minor fixes. Duplicated shapes, fill color
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Thu, 01 Feb 2024 17:09:31 +0100
+
 spark4pi-relay-actuator (2.0) jammy; urgency=medium
 
   * Corrected mounting holes on board so that they are equal distance from interfaces
