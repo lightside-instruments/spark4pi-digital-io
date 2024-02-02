@@ -1,3 +1,10 @@
+spark4pi-relay-actuator (2.2) jammy; urgency=medium
+
+  * Added strip-tstamp.py and removed pcb version with tstamp meta data
+  * Enclosure: Added secondary mounting hole to bottom plate for optional solutions based on a bracket hook holding the front and bottom panels together
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Fri, 02 Feb 2024 10:01:39 +0100
+
 spark4pi-relay-actuator (2.1) jammy; urgency=medium
 
   * Restored grid origin to the top left corner of the board

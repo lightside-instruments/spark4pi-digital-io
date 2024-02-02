@@ -6,34 +6,11 @@
    version="1.1"
    preserveAspectRatio="xMidYMid meet"
    id="svg15"
-   sodipodi:docname="box-4mm-plain.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     id="namedview852"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="1.2120092"
-     inkscape:cx="460.39254"
-     inkscape:cy="713.27841"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg15" />
   <metadata
      id="metadata21">
     <rdf:RDF>
@@ -3787,6 +3764,25 @@
      cx="-374.79999"
      cy="190"
      r="1.25" />
+  <g
+     id="g5358-2"
+     style="fill:#0000ff"
+     transform="translate(0.01084595,-23.950058)">
+    <circle
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.55905;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path956-3-3-53-8"
+       cx="-374.78915"
+       cy="203.95006"
+       r="3" />
+  </g>
+  <circle
+     transform="scale(-1,1)"
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:3.94843;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
+     id="path1097-1-2-0-9-02-4"
+     cx="-374.79999"
+     cy="180"
+     r="1.25" />
   <circle
      transform="scale(-1,1)"
      style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.55905;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
@@ -3898,6 +3894,20 @@
      cy="190"
      cx="-107.8"
      id="path1097-1-9-9-3-8"
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:3.94843;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
+     transform="scale(-1,1)" />
+  <circle
+     r="3"
+     cy="180"
+     cx="-107.8"
+     id="path956-3-5-3-4"
+     style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.55905;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
+     transform="scale(-1,1)" />
+  <circle
+     r="1.25"
+     cy="180"
+     cx="-107.8"
+     id="path1097-1-9-9-3-8-6"
      style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:3.94843;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
      transform="scale(-1,1)" />
   <g
