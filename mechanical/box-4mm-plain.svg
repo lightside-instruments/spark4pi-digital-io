@@ -158,13 +158,6 @@
      transform="matrix(0,-1,-1,0,0,0)" />
   <circle
      style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:3.94843;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
-     id="path1649-6-31-3-0-0-5-5-9"
-     cx="-338"
-     cy="-317.30042"
-     r="2.4000001"
-     transform="matrix(0,-1,-1,0,0,0)" />
-  <circle
-     style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:3.94843;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
      id="path1649-6-31-3-0-02-5"
      cx="-338"
      cy="-309.30042"
@@ -284,20 +277,6 @@
      transform="matrix(0,-1,-1,0,0,0)" />
   <circle
      style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:3.94843;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
-     id="path1649-6-31-1-9-4-7-3-0-3"
-     cx="-345.99997"
-     cy="-317.30042"
-     r="2.4000001"
-     transform="matrix(0,-1,-1,0,0,0)" />
-  <circle
-     style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:3.94843;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
-     id="path1649-6-31-49-6-4-4-6-2-0"
-     cx="-354"
-     cy="-317.30042"
-     r="2.4000001"
-     transform="matrix(0,-1,-1,0,0,0)" />
-  <circle
-     style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:3.94843;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke"
      id="path1649-6-31-1-9-2-3-3"
      cx="-345.99997"
      cy="-309.30042"
@@ -372,7 +351,7 @@
      style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.94843;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke" />
   <path
      id="rect874-3-2-6-2"
-     d="m 323.05961,343.48953 h 11.44231 c 0.15462,0 0.27909,0.27685 0.27909,0.62074 v 4.75899 c 0,0.34389 -0.12447,0.62074 -0.27909,0.62074 h -11.44231 c -0.15462,0 -0.27908,-0.27685 -0.27908,-0.62074 v -4.75899 c 0,-0.34389 0.12446,-0.62074 0.27908,-0.62074 z"
+     d="m 321.06008,339.49 h 11.44231 c 0.15462,0 0.27909,0.27685 0.27909,0.62074 v 4.75899 c 0,0.34389 -0.12447,0.62074 -0.27909,0.62074 h -11.44231 c -0.15462,0 -0.27908,-0.27685 -0.27908,-0.62074 v -4.75899 c 0,-0.34389 0.12446,-0.62074 0.27908,-0.62074 z"
      style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.94843;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;paint-order:fill markers stroke" />
   <path
      d="m 383.3,324 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 h -4.00001 v 4 h -4 v -4 H 107.3 v 4 h -4 v -4 h -4 v 44 h 4 v -4 h 4 v 4 h 3.99999 v -4 h 4 v 4 H 119.3 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 z"

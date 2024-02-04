@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "spark4pi-relay-actuator-2.2")
+    (title "spark4pi-relay-actuator-2.3")
     (company "Lightside Instruments AS")
   )
 
@@ -2628,7 +2628,7 @@
   (gr_text "A" (at 82 120.5) (layer "F.SilkS")
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "SPARK4PI-RELAY-ACTUATOR-2.2" (at 27.75 96.5) (layer "F.SilkS")
+  (gr_text "spark4pi-relay-actuator-2.3" (at 27.75 96.5) (layer "F.SilkS")
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
   (gr_text "1" (at 86.5 120.5) (layer "F.SilkS")
