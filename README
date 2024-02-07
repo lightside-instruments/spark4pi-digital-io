@@ -5,11 +5,11 @@ the Spark hardware platform for networking as form factor
 but with a Raspberry Pi 40 pin connector as management
 interface instead of 96boards.
 
-The functionality of spark4pi-relay-actuator
-is similar to the two-position relay
-actuators of the classic HP 59306A but with 3 relays
-instead of 6. The device falls into the IVI Switch instrument
-class abstraction model.
+The spark4pi-digital-io
+has 6x SMA connectors connected to input and outut 3.3V drivers
+with configurable direction that are connected to GPIOs on the
+Raspberry Pi connector. 2 GPIOs per channel one for selection
+direction and one for the actual signal.
 
 The project includes the following components:
 1. board - schematic and PCB design files for KiCAD
@@ -19,9 +19,6 @@ The project includes the following components:
  connects together a Pi compatible board with the instrument
  extension base board mounted to the left of the Pi compatible
  control board.
-4. board-powermod - DC-DC board design used as a module to
- convert the 12-15V input power to 5V powering the
- Pi compatible control board.
 
 The project is published by Lightside Instruments AS
 under TAPR Open Hardware License. Read the LICENSE file
