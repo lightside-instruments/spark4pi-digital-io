@@ -1,3 +1,9 @@
+spark4pi-digital-io (2.5) jammy; urgency=medium
+
+  * Completed interfaces 2-6
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Thu, 08 Feb 2024 15:21:37 +0100
+
 spark4pi-digital-io (2.4) jammy; urgency=medium
 
   * Initial release
