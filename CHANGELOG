@@ -1,3 +1,9 @@
+spark4pi-digital-io (2.7) jammy; urgency=medium
+
+  * Matched trace lengths for port 1-6 signals
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Sat, 10 Feb 2024 00:31:58 +0100
+
 spark4pi-digital-io (2.6) jammy; urgency=medium
 
   * Added ground vias on both sides of each signal track
