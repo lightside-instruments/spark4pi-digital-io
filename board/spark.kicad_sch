@@ -5,7 +5,7 @@
   (paper "A2")
 
   (title_block
-    (title "spark4pi-digital-io-2.5")
+    (title "spark4pi-digital-io-2.6")
     (company "Lightside Instruments AS")
   )
 
