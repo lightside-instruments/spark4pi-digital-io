@@ -1,3 +1,11 @@
+spark4pi-digital-io (2.8) jammy; urgency=medium
+
+  * Added jumper for selecting voltage of the SMA output driver IC with 3.3V and 5V options
+  * Added missing mounting holes, corrected front and back panel connector cutouts
+  * Fixed BOM
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Sat, 16 Mar 2024 18:46:15 +0100
+
 spark4pi-digital-io (2.7) jammy; urgency=medium
 
   * Matched trace lengths for port 1-6 signals
