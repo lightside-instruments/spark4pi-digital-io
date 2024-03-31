@@ -1,3 +1,9 @@
+spark4pi-digital-io (2.9-test1) bookworm; urgency=medium
+
+  * Added toggle-gpios.sh script to toggle all signal and output enable pins in a 1 second sequence
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Sun, 31 Mar 2024 19:56:50 +0200
+
 spark4pi-digital-io (2.9) jammy; urgency=medium
 
   * Modified signal5 trace to fix a misleading via on incorrect pin in the virtual 2x20 silkscreen connector
