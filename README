@@ -6,7 +6,9 @@ but with a Raspberry Pi 40 pin connector as management
 interface instead of 96boards.
 
 The spark4pi-digital-io
-has 6x SMA connectors connected to input and output 3.3V drivers
+has 6x SMA connectors connected to input (3.3V or 1.65V)
+and output drivers (3.3V or 5V with open-circuit and 1.65V
+or 2.5V with 50 ohm termination )
 with configurable direction that are connected to GPIOs on the
 Raspberry Pi connector. 2 GPIOs per channel one for selection of
 direction and one for the actual signal.
